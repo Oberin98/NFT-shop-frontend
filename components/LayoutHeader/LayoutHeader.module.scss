@@ -1,0 +1,13 @@
+.nav {
+  display: flex;
+  align-items: center;
+  width: 220px;
+  height: 80px;
+  background-color: #fff;
+  padding: 15px 30px;
+  border-radius: 50px;
+
+  img {
+    object-fit: contain;
+  }
+}
